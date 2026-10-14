@@ -81,7 +81,7 @@ export default function Home() {
         watch initial data stream into the page. The{' '}
         <a
           className="underline hover:text-foreground"
-          href="https://github.com/vercel-labs/next-spa-patterns"
+          href="https://github.com/nextjs/next-spa-patterns"
         >
           source is on GitHub
         </a>
